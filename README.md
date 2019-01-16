@@ -1,2 +1,6 @@
 # Diary
-My daily learning record.
+
+### 学习
+
+### 态度
+
